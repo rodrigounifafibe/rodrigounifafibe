@@ -2,6 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigo.gsantana)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/rodrigo.goncalves.75641)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
+![GitHub last commit](https://img.shields.io/github/last-commit/rodrigounifafibe/rodrigounifafibe?label=%C3%9Altima%20atualiza%C3%A7%C3%A3o%20do%20perfil)
 
 <img src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/04/como-ativar-modo-escuro-google-chrome-app-android.gif" width="100%"/>
 
