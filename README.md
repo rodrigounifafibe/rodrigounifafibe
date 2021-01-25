@@ -16,7 +16,7 @@ Atualmente, eu sou estudante no curso de **Sistemas de Informação**. 👨‍�
 As tecnologias que eu estou aprendendo e usado até agora são:
 
 #### Linguagem de programação:
-![C#](https://img.shields.io/badge/-C#-green?logo=csharp&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=flat)
 
 #### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
@@ -24,7 +24,8 @@ As tecnologias que eu estou aprendendo e usado até agora são:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)
 
 #### Banco de Dados:
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)
+
 
 
 💌 Você também pode me enviar e-mail: [rodrigo.unifafibe@gmail.com](mailto:rodrigo.unifafibe@gmail.com).
