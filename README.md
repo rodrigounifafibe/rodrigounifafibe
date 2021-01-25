@@ -6,8 +6,7 @@
 
 Atualmente, eu sou estudante no curso de **Sistemas de Informação**. 👨‍💻
 
-*As áreas que eu mais gosto de atuar são:*
-
+**As áreas que eu mais gosto de atuar são:**
 - 🖥 Desenvolvimento de Front-end Web;
 - 📲 Desenvolvimento Mobile; e
 - 🛰 Criação de API.
