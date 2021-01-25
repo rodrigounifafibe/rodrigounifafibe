@@ -16,7 +16,7 @@ As tecnologias que eu estou aprendendo e usado até agora são:
 Linguagem de programação:
 
 Frontend:
-![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
+![HTML5](https://img.shields.io/badge/HTML5-%orange?style=flat&logo=HTML5&logoColor=white)
 
 
 IDE e ferramentas:
