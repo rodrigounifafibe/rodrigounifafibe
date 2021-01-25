@@ -16,7 +16,7 @@ Atualmente, eu sou estudante no curso de **Sistemas de Informação**. 👨‍�
 As tecnologias que eu estou aprendendo e usado até agora são:
 
 #### Linguagem de programação:
-<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+![C#](https://img.shields.io/badge/-C#-green?logo=csharp&logoColor=white&style=flat)
 
 #### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
