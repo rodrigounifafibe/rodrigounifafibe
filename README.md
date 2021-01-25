@@ -3,7 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/rodrigo.goncalves.75641)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
 
-![Animação](https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/04/como-ativar-modo-escuro-google-chrome-app-android.gif){: width="100%"}
+<img src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/04/como-ativar-modo-escuro-google-chrome-app-android.gif" width="100%"/>
 
 
 Atualmente, eu sou estudante no curso de **Sistemas de Informação**. 👨‍💻
