@@ -13,19 +13,26 @@ Atualmente, eu sou estudante no curso de **Sistemas de Informação**. 👨‍�
 - 🛰 Criação de API.
 
 
-As tecnologias que eu estou aprendendo e usado até agora são:
+#### As tecnologias que eu estou aprendendo e usado até agora são:
+<details>
+  <summary>Linguagem de programação</summary>
+  
+  ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=flat)
+</details>
 
-#### Linguagem de programação:
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=white&style=flat)
+<details>
+  <summary>Frontend</summary>
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
+  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)
+</details>
 
-#### Frontend:
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)
-
-#### Banco de Dados:
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)
-
+<details>
+  <summary>Banco de Dados</summary>
+  
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat)
+</details>
 
 
 💌 Você também pode me enviar e-mail: [rodrigo.unifafibe@gmail.com](mailto:rodrigo.unifafibe@gmail.com).
