@@ -16,8 +16,7 @@ As tecnologias que eu estou aprendendo e usado até agora são:
 Linguagem de programação:
 
 Frontend:
-![HTML5](http://img.shields.io/badge/-html5?style=flat-square&logo=html5&logoColor=FF6F00)
-
+[![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)]
 
 IDE e ferramentas:
 
